@@ -1,0 +1,22 @@
+React als Javascript Framework zur komponentenorientierten Entwicklung von Anwendungen, meistens SPA
+Aufräumen
+JSX
+Anzeigen Hello World
+Styling
+Mapping (Key!)
+Komponenten
+useState
+Nutzerinteraktion
+
+Anforderungen:
+Hinzufügen von Items
+Items in eigener Komponente
+Löschen von Items
+Hinzufügen verbieten, wenn existent oder leer
+
+useCallback
+useMemo
+useContext
+useRef
+
+Durchgehen der Lösung
